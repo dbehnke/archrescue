@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=PearOS
+Icon=/home/dbehnke/.config/plank/dock1/theme_index/theme-icons/plank_theme.svg
+Exec=/home/dbehnke/.config/plank/dock1/theme_index/PearOS.sh

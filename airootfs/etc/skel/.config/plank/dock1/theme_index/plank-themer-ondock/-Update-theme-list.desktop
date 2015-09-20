@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Update-theme-list
+Icon="~/.config/plank/dock1/theme_index/updater-icon/update-theme-list.svg"
+Exec="~/.config/plank/dock1/theme_index/plank-on-dock-themer-update-theme-list.sh"
+Name[es_ES]=-Update-theme-list
+[Desktop Entry]
+Type=Application
+Terminal=true
+Name=Update-theme-list
+Icon=/home/dbehnke/.config/plank/dock1/theme_index/updater-icon/update-theme-list.svg
+Exec=/home/dbehnke/.config/plank/dock1/theme_index/plank-on-dock-themer-update-theme-list.sh
