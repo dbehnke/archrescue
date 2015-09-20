@@ -4,9 +4,10 @@ This will create a live media iso with the Mate desktop.  You can use this as a 
 
 ## Quickstart
 
-1. Install archiso ```sudo pacman -S archiso```
-2. Edit pacman.conf and change the path of customrepo
-2. Execute ```make```
+1. Clone: ```git clone https://github.com/dbehnke/archrescue.git```
+2. Install archiso ```sudo pacman -S archiso```
+3. Edit pacman.conf and change the path of customrepo
+4. Execute ```make```
 
 output will be in out directory
 
